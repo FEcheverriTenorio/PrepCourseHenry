@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Este es una prueba tales y pascuales 
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computador
